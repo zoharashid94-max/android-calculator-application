@@ -1,22 +1,13 @@
 # Android Calculator Application
 
-A simple calculator application developed using Java, Android Studio, and XML.
+A standalone mobile calculator application developed using Java and Android Studio, designed with clean architecture principles.
 
-## Features
+## Architecture & Features
+* **Design Pattern:** Built using a clean Model-View-Controller (MVC) design pattern to separate business logic from UI layouts.
+* **Backend Logic:** Programmed robust algorithms in Java to handle complex multi-step arithmetic calculations seamlessly.
+* **UI Design:** Responsive and user-friendly interface layouts designed using structural XML.
 
-- Basic arithmetic operations
-- Addition, subtraction, multiplication, and division
-- Decimal calculations
-- Bracket support
-- Clear/reset functionality
-- Basic error handling
+## Tools & Technologies
+* **Language:** Java, XML
+* **IDE:** Android Studio
 
-## Technologies Used
-
-- Java
-- Android Studio
-- XML
-
-## Documentation
-
-The project presentation is available in this repository.
